@@ -1,6 +1,6 @@
-#Guioes Praticos SM
+#Guioes Praticos BD
 
-Guioes Praticos SM 2023-2024 (e testes)
+Guioes Praticos BD 2023-2024 (e testes)
 
 **Contact:**
 
